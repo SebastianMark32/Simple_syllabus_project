@@ -1,1 +1,1 @@
-# Simple_syllabus_project
+# Simple_Syllabus_Project
