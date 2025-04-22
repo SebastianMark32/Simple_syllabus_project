@@ -37,9 +37,10 @@ python simple_syllabus_project.py
 - **City Name**: Enter the name of the city (e.g., "Sarasota").
 - **Unit (Celsius or Fahrenheit)**: Choose between Celsius or Fahrenheit for temperature.
 
-##**Example**
-`Enter a city name: Sarasota
+## Example
+```bash
+Enter a city name: Sarasota
 Enter the unit (Celsius or Fahrenheit): Celsius
-The current temperature in Sarasota is 25°C with Sunny weather.`
+The current temperature in Sarasota is 25°C with Sunny weather.
 
 
