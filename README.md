@@ -32,7 +32,7 @@ You can manually install the required dependencies if the `requirements.txt` fil
    
  You’ll need an API key to access the AccuWeather API. You can obtain it from the [AccuWeather API](https://developer.accuweather.com/). After obtaining your API key:
  
-1. Create a file called `config.py` in the project directory.
+1. Create a file called `config.py` in the project directory (optional).
 2. Add the following line to store your API key:
 3. Or copy and paste your own API key. 
    ```python
