@@ -23,9 +23,10 @@ Ensure that Python 3.x and pip are installed on your machine.
 
 ## **Dependencies**
 
-* `requests`– For making HTTP requests to the AccuWeather API.
-
+- `requests` – For making HTTP requests to the AccuWeather API.
 You can manually install the required dependencies if the `requirements.txt` file is not provided:
+   ```bash
+   pip install requests
 
 ## **API Key Setup**
    
