@@ -31,7 +31,7 @@ You can manually install the required dependencies if the `requirements.txt` fil
 ## **Usage**
 1. Run the program:
    
-python weather_app.py
+python simple_syllabus_project.py
 
 2. The program will prompt you for:
 - **City Name**: Enter the name of the city (e.g., "Sarasota").
