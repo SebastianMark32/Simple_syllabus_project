@@ -1,15 +1,15 @@
 # Simple Syllabus AccuWeather Python API Project
 
-## **Overview**
+## Overview
 This Python application interacts with the AccuWeather API to fetch and display weather information for a given city. Users can input a city name, choose the unit for temperature (Celsius or Fahrenheit), and get the current weather details, such as temperature, weather description, humidity, and wind speed.
 
-## **Features**
+## Features
 * Fetches weather data based on city input.
 * Displays current weather, temperature, and description.
 * Supports temperature units in Celsius or Fahrenheit.
 * Handles API errors and invalid city names.
 
-* ## **Prerequisites**
+ ## Prerequisites
 
 Ensure that Python 3.x and pip are installed on your machine.
 
