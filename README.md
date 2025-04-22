@@ -33,7 +33,7 @@ You can manually install the required dependencies if the `requirements.txt` fil
  
 1. Create a file called `config.py` in the project directory.
 2. Add the following line to store your API key:
-3. 3. Or copy and paste your own API key. 
+3. Or copy and paste your own API key. 
    ```python
    api_key = "your_api_key_here"
 
