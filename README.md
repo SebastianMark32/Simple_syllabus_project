@@ -21,3 +21,25 @@ Ensure that Python 3.x and pip are installed on your machine.
    python --version
    pip --version
 
+## **Dependencies**
+
+* `requests`– For making HTTP requests to the AccuWeather API.
+
+You can manually install the required dependencies if the `requirements.txt` file is not provided:
+
+
+## **Usage**
+1. Run the program:
+   
+python weather_app.py
+
+2. The program will prompt you for:
+- **City Name**: Enter the name of the city (e.g., "Sarasota").
+- **Unit (Celsius or Fahrenheit)**: Choose between Celsius or Fahrenheit for temperature.
+
+##**Example**
+`Enter a city name: Sarasota
+Enter the unit (Celsius or Fahrenheit): Celsius
+The current temperature in Sarasota is 25°C with Sunny weather.`
+
+
